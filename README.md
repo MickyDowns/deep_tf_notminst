@@ -1,4 +1,4 @@
-# Tensorflow Not-Minst character recognition and 
+# TF for Not-Minst character recognition and Text Sequencing
 
 ## Overview
 
