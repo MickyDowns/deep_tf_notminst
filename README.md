@@ -1,8 +1,12 @@
-# TF for Not-Minst character recognition and Text Sequencing
+# TF for Not-Minst character recognition and for Text Sequencing
 
 ## Overview
 
-These are my Jupyter notebook annotations and extensions to the Google / Udacity Deep Learning course: https://www.udacity.com/course/deep-learning--ud730. That course was a great intro to TensorFlow, but the Python knowledge requirement was "advanced". I've saved of my models / annotations in these notebooks. They may help you implement concepts as you work thru that course. 
+These are my Jupyter notebook annotations and extensions to the Google / Udacity Deep Learning course: https://www.udacity.com/course/deep-learning--ud730. That course was a great intro to TensorFlow. However, the Python knowledge requirement was "advanced" making the class less accessible. So, I've saved of my models / annotations in these notebooks. 
+
+## Who this may help
+
+If you're taking the course and struggling with how to translate concepts to code or want to see results under a variety of assumptions, these notebooks may help. If your not taking the course but are interested in seeing a curated version of how Google implements CNN and RNN/LSTM networks, this should help.
 
 ## What's Implemented
 
